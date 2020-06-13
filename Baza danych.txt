@@ -1,0 +1,534 @@
+============== DANE DOTYCZĄCE ZARAŻONYCH KORONAWIRUSEM (STAN NA DZIEŃ 12.06.20) ==============
+
+Country = Afghanistan
+Total number of infected = 23546. Number of infected last day = 656.
+Country = Albania
+Total number of infected = 1416. Number of infected last day = 31.
+Country = Algeria
+Total number of infected = 10698. Number of infected last day = 109.
+Country = Andorra
+Total number of infected = 853. Number of infected last day = 1.
+Country = Angola
+Total number of infected = 130. Number of infected last day = 12.
+Country = Antigua and Barbuda
+Total number of infected = 26. Number of infected last day = 0.
+Country = Argentina
+Total number of infected = 28764. Number of infected last day = 1391.
+Country = Armenia
+Total number of infected = 15281. Number of infected last day = 612.
+Country = Australia/Australian Capital Territory
+Total number of infected = 108. Number of infected last day = 0.
+Country = Australia/New South Wales
+Total number of infected = 3119. Number of infected last day = 4.
+Country = Australia/Northern Territory
+Total number of infected = 29. Number of infected last day = 0.
+Country = Australia/Queensland
+Total number of infected = 1065. Number of infected last day = 1.
+Country = Australia/South Australia
+Total number of infected = 440. Number of infected last day = 0.
+Country = Australia/Tasmania
+Total number of infected = 228. Number of infected last day = 0.
+Country = Australia/Victoria
+Total number of infected = 1703. Number of infected last day = 0.
+Country = Australia/Western Australia
+Total number of infected = 602. Number of infected last day = 0.
+Country = Austria
+Total number of infected = 17064. Number of infected last day = 30.
+Country = Azerbaijan
+Total number of infected = 9218. Number of infected last day = 336.
+Country = Bahamas
+Total number of infected = 103. Number of infected last day = 0.
+Country = Bahrain
+Total number of infected = 17269. Number of infected last day = 602.
+Country = Bangladesh
+Total number of infected = 81523. Number of infected last day = 3471.
+Country = Barbados
+Total number of infected = 96. Number of infected last day = 0.
+Country = Belarus
+Total number of infected = 52520. Number of infected last day = 704.
+Country = Belgium
+Total number of infected = 59819. Number of infected last day = 108.
+Country = Benin
+Total number of infected = 388. Number of infected last day = 83.
+Country = Bhutan
+Total number of infected = 62. Number of infected last day = 0.
+Country = Bolivia
+Total number of infected = 16929. Number of infected last day = 764.
+Country = Bosnia and Herzegovina
+Total number of infected = 2893. Number of infected last day = 61.
+Country = Brazil
+Total number of infected = 828810. Number of infected last day = 25982.
+Country = Brunei
+Total number of infected = 141. Number of infected last day = 0.
+Country = Bulgaria
+Total number of infected = 3191. Number of infected last day = 105.
+Country = Burkina Faso
+Total number of infected = 892. Number of infected last day = 0.
+Country = Cabo Verde
+Total number of infected = 697. Number of infected last day = 40.
+Country = Cambodia
+Total number of infected = 126. Number of infected last day = 0.
+Country = Cameroon
+Total number of infected = 8681. Number of infected last day = 0.
+Country = Canada/Alberta
+Total number of infected = 7346. Number of infected last day = 30.
+Country = Canada/British Columbia
+Total number of infected = 2709. Number of infected last day = 15.
+Country = Canada/Grand Princess
+Total number of infected = 13. Number of infected last day = 0.
+Country = Canada/Manitoba
+Total number of infected = 301. Number of infected last day = 1.
+Country = Canada/New Brunswick
+Total number of infected = 154. Number of infected last day = 1.
+Country = Canada/Newfoundland and Labrador
+Total number of infected = 261. Number of infected last day = 0.
+Country = Canada/Nova Scotia
+Total number of infected = 1061. Number of infected last day = 0.
+Country = Canada/Ontario
+Total number of infected = 33378. Number of infected last day = 205.
+Country = Canada/Prince Edward Island
+Total number of infected = 27. Number of infected last day = 0.
+Country = Canada/Quebec
+Total number of infected = 53666. Number of infected last day = 181.
+Country = Canada/Saskatchewan
+Total number of infected = 663. Number of infected last day = 3.
+Country = Central African Republic
+Total number of infected = 2044. Number of infected last day = 92.
+Country = Chad
+Total number of infected = 848. Number of infected last day = 0.
+Country = Chile
+Total number of infected = 160846. Number of infected last day = 6754.
+Country = China/Anhui
+Total number of infected = 991. Number of infected last day = 0.
+Country = China/Beijing
+Total number of infected = 601. Number of infected last day = 6.
+Country = China/Chongqing
+Total number of infected = 579. Number of infected last day = 0.
+Country = China/Fujian
+Total number of infected = 361. Number of infected last day = 0.
+Country = China/Gansu
+Total number of infected = 139. Number of infected last day = 0.
+Country = China/Guangdong
+Total number of infected = 1608. Number of infected last day = 1.
+Country = China/Guangxi
+Total number of infected = 254. Number of infected last day = 0.
+Country = China/Guizhou
+Total number of infected = 147. Number of infected last day = 0.
+Country = China/Hainan
+Total number of infected = 171. Number of infected last day = 1.
+Country = China/Hebei
+Total number of infected = 328. Number of infected last day = 0.
+Country = China/Heilongjiang
+Total number of infected = 947. Number of infected last day = 0.
+Country = China/Henan
+Total number of infected = 1276. Number of infected last day = 0.
+Country = China/Hong Kong
+Total number of infected = 1108. Number of infected last day = 1.
+Country = China/Hubei
+Total number of infected = 68135. Number of infected last day = 0.
+Country = China/Hunan
+Total number of infected = 1019. Number of infected last day = 0.
+Country = China/Inner Mongolia
+Total number of infected = 237. Number of infected last day = 0.
+Country = China/Jiangsu
+Total number of infected = 653. Number of infected last day = 0.
+Country = China/Jiangxi
+Total number of infected = 932. Number of infected last day = 0.
+Country = China/Jilin
+Total number of infected = 155. Number of infected last day = 0.
+Country = China/Liaoning
+Total number of infected = 149. Number of infected last day = 0.
+Country = China/Macau
+Total number of infected = 45. Number of infected last day = 0.
+Country = China/Ningxia
+Total number of infected = 75. Number of infected last day = 0.
+Country = China/Qinghai
+Total number of infected = 18. Number of infected last day = 0.
+Country = China/Shaanxi
+Total number of infected = 311. Number of infected last day = 0.
+Country = China/Shandong
+Total number of infected = 792. Number of infected last day = 0.
+Country = China/Shanghai
+Total number of infected = 690. Number of infected last day = 1.
+Country = China/Shanxi
+Total number of infected = 198. Number of infected last day = 0.
+Country = China/Sichuan
+Total number of infected = 583. Number of infected last day = 1.
+Country = China/Tianjin
+Total number of infected = 196. Number of infected last day = 1.
+Country = China/Tibet
+Total number of infected = 1. Number of infected last day = 0.
+Country = China/Xinjiang
+Total number of infected = 76. Number of infected last day = 0.
+Country = China/Yunnan
+Total number of infected = 185. Number of infected last day = 0.
+Country = China/Zhejiang
+Total number of infected = 1268. Number of infected last day = 0.
+Country = Colombia
+Total number of infected = 45344. Number of infected last day = 1534.
+Country = Congo (Brazzaville)
+Total number of infected = 728. Number of infected last day = 0.
+Country = Congo (Kinshasa)
+Total number of infected = 4637. Number of infected last day = 122.
+Country = Costa Rica
+Total number of infected = 1612. Number of infected last day = 74.
+Country = Cote d'Ivoire
+Total number of infected = 4684. Number of infected last day = 280.
+Country = Croatia
+Total number of infected = 2249. Number of infected last day = 0.
+Country = Diamond Princess
+Total number of infected = 712. Number of infected last day = 0.
+Country = Cuba
+Total number of infected = 2233. Number of infected last day = 14.
+Country = Cyprus
+Total number of infected = 980. Number of infected last day = 5.
+Country = Czechia
+Total number of infected = 9938. Number of infected last day = 83.
+Country = Denmark/Faroe Islands
+Total number of infected = 187. Number of infected last day = 0.
+Country = Denmark/Greenland
+Total number of infected = 13. Number of infected last day = 0.
+Country = Denmark
+Total number of infected = 12099. Number of infected last day = 64.
+Country = Djibouti
+Total number of infected = 4441. Number of infected last day = 43.
+Country = Dominican Republic
+Total number of infected = 22008. Number of infected last day = 571.
+Country = Ecuador
+Total number of infected = 45778. Number of infected last day = 1338.
+Country = Egypt
+Total number of infected = 41303. Number of infected last day = 1577.
+Country = El Salvador
+Total number of infected = 3481. Number of infected last day = 108.
+Country = Equatorial Guinea
+Total number of infected = 1306. Number of infected last day = 0.
+Country = Eritrea
+Total number of infected = 41. Number of infected last day = 0.
+Country = Estonia
+Total number of infected = 1970. Number of infected last day = 5.
+Country = Eswatini
+Total number of infected = 472. Number of infected last day = 23.
+Country = Ethiopia
+Total number of infected = 2915. Number of infected last day = 245.
+Country = Fiji
+Total number of infected = 18. Number of infected last day = 0.
+Country = Finland
+Total number of infected = 7073. Number of infected last day = 9.
+Country = France/French Guiana
+Total number of infected = 1043. Number of infected last day = 126.
+Country = France/French Polynesia
+Total number of infected = 60. Number of infected last day = 0.
+Country = France/Guadeloupe
+Total number of infected = 171. Number of infected last day = 7.
+Country = France/Mayotte
+Total number of infected = 2268. Number of infected last day = 28.
+Country = France/New Caledonia
+Total number of infected = 21. Number of infected last day = 0.
+Country = France/Reunion
+Total number of infected = 488. Number of infected last day = 1.
+Country = France/Saint Barthelemy
+Total number of infected = 6. Number of infected last day = 0.
+Country = France/St Martin
+Total number of infected = 42. Number of infected last day = 1.
+Country = France/Martinique
+Total number of infected = 202. Number of infected last day = 0.
+Country = France
+Total number of infected = 188918. Number of infected last day = 564.
+Country = Gabon
+Total number of infected = 3463. Number of infected last day = 0.
+Country = Gambia
+Total number of infected = 28. Number of infected last day = 0.
+Country = Georgia
+Total number of infected = 843. Number of infected last day = 12.
+Country = Germany
+Total number of infected = 187226. Number of infected last day = 535.
+Country = Ghana
+Total number of infected = 10856. Number of infected last day = 498.
+Country = Greece
+Total number of infected = 3108. Number of infected last day = 20.
+Country = Guatemala
+Total number of infected = 8982. Number of infected last day = 421.
+Country = Guinea
+Total number of infected = 4426. Number of infected last day = 54.
+Country = Guyana
+Total number of infected = 159. Number of infected last day = 1.
+Country = Haiti
+Total number of infected = 3941. Number of infected last day = 0.
+Country = Holy See
+Total number of infected = 12. Number of infected last day = 0.
+Country = Honduras
+Total number of infected = 8132. Number of infected last day = 463.
+Country = Hungary
+Total number of infected = 4053. Number of infected last day = 14.
+Country = Iceland
+Total number of infected = 1807. Number of infected last day = 0.
+Country = India
+Total number of infected = 297535. Number of infected last day = 0.
+Country = Indonesia
+Total number of infected = 36406. Number of infected last day = 1111.
+Country = Iran
+Total number of infected = 182525. Number of infected last day = 2369.
+Country = Iraq
+Total number of infected = 17770. Number of infected last day = 1095.
+Country = Ireland
+Total number of infected = 25250. Number of infected last day = 12.
+Country = Israel
+Total number of infected = 18795. Number of infected last day = 226.
+Country = Italy
+Total number of infected = 236305. Number of infected last day = 163.
+Country = Jamaica
+Total number of infected = 614. Number of infected last day = 3.
+Country = Japan
+Total number of infected = 17250. Number of infected last day = 63.
+Country = Jordan
+Total number of infected = 915. Number of infected last day = 25.
+Country = Kazakhstan
+Total number of infected = 13872. Number of infected last day = 0.
+Country = Kenya
+Total number of infected = 3305. Number of infected last day = 90.
+Country = South Korea
+Total number of infected = 12051. Number of infected last day = 48.
+Country = Kuwait
+Total number of infected = 34952. Number of infected last day = 520.
+Country = Kyrgyzstan
+Total number of infected = 2166. Number of infected last day = 0.
+Country = Latvia
+Total number of infected = 1096. Number of infected last day = 2.
+Country = Lebanon
+Total number of infected = 1422. Number of infected last day = 20.
+Country = Liberia
+Total number of infected = 421. Number of infected last day = 11.
+Country = Liechtenstein
+Total number of infected = 82. Number of infected last day = 0.
+Country = Lithuania
+Total number of infected = 1756. Number of infected last day = 4.
+Country = Luxembourg
+Total number of infected = 4055. Number of infected last day = 3.
+Country = Madagascar
+Total number of infected = 1240. Number of infected last day = 37.
+Country = Malaysia
+Total number of infected = 8402. Number of infected last day = 33.
+Country = Maldives
+Total number of infected = 2003. Number of infected last day = 27.
+Country = Malta
+Total number of infected = 645. Number of infected last day = 5.
+Country = Mauritania
+Total number of infected = 1572. Number of infected last day = 133.
+Country = Mauritius
+Total number of infected = 337. Number of infected last day = 0.
+Country = Mexico
+Total number of infected = 139196. Number of infected last day = 5222.
+Country = Moldova
+Total number of infected = 11093. Number of infected last day = 366.
+Country = Monaco
+Total number of infected = 99. Number of infected last day = 0.
+Country = Mongolia
+Total number of infected = 197. Number of infected last day = 0.
+Country = Montenegro
+Total number of infected = 324. Number of infected last day = 0.
+Country = Morocco
+Total number of infected = 8610. Number of infected last day = 73.
+Country = Namibia
+Total number of infected = 31. Number of infected last day = 0.
+Country = Nepal
+Total number of infected = 5062. Number of infected last day = 448.
+Country = Netherlands/Aruba
+Total number of infected = 101. Number of infected last day = 0.
+Country = Netherlands/Curacao
+Total number of infected = 22. Number of infected last day = 0.
+Country = Netherlands/Sint Maarten
+Total number of infected = 77. Number of infected last day = 0.
+Country = Netherlands
+Total number of infected = 48461. Number of infected last day = 210.
+Country = New Zealand
+Total number of infected = 1504. Number of infected last day = 0.
+Country = Nicaragua
+Total number of infected = 1464. Number of infected last day = 0.
+Country = Niger
+Total number of infected = 978. Number of infected last day = 4.
+Country = Nigeria
+Total number of infected = 15181. Number of infected last day = 627.
+Country = North Macedonia
+Total number of infected = 3701. Number of infected last day = 163.
+Country = Norway
+Total number of infected = 8620. Number of infected last day = 12.
+Country = Oman
+Total number of infected = 21071. Number of infected last day = 1117.
+Country = Pakistan
+Total number of infected = 125933. Number of infected last day = 0.
+Country = Panama
+Total number of infected = 19211. Number of infected last day = 625.
+Country = Papua New Guinea
+Total number of infected = 8. Number of infected last day = 0.
+Country = Paraguay
+Total number of infected = 1254. Number of infected last day = 24.
+Country = Peru
+Total number of infected = 214788. Number of infected last day = 0.
+Country = Philippines
+Total number of infected = 24787. Number of infected last day = 612.
+Country = Poland
+Total number of infected = 28577. Number of infected last day = 376.
+Country = Portugal
+Total number of infected = 36180. Number of infected last day = 270.
+Country = Qatar
+Total number of infected = 76588. Number of infected last day = 1517.
+Country = Romania
+Total number of infected = 21404. Number of infected last day = 222.
+Country = Russia
+Total number of infected = 510761. Number of infected last day = 8961.
+Country = Rwanda
+Total number of infected = 510. Number of infected last day = 16.
+Country = Saint Lucia
+Total number of infected = 19. Number of infected last day = 0.
+Country = Saint Vincent and the Grenadines
+Total number of infected = 27. Number of infected last day = 0.
+Country = San Marino
+Total number of infected = 694. Number of infected last day = 3.
+Country = Saudi Arabia
+Total number of infected = 119942. Number of infected last day = 3921.
+Country = Senegal
+Total number of infected = 4851. Number of infected last day = 92.
+Country = Serbia
+Total number of infected = 12175. Number of infected last day = 73.
+Country = Seychelles
+Total number of infected = 11. Number of infected last day = 0.
+Country = Singapore
+Total number of infected = 39850. Number of infected last day = 463.
+Country = Slovakia
+Total number of infected = 1542. Number of infected last day = 1.
+Country = Slovenia
+Total number of infected = 1490. Number of infected last day = 2.
+Country = Somalia
+Total number of infected = 2513. Number of infected last day = 0.
+Country = South Africa
+Total number of infected = 61927. Number of infected last day = 3359.
+Country = Spain
+Total number of infected = 243209. Number of infected last day = 502.
+Country = Sri Lanka
+Total number of infected = 1880. Number of infected last day = 3.
+Country = Sudan
+Total number of infected = 6879. Number of infected last day = 149.
+Country = Suriname
+Total number of infected = 187. Number of infected last day = 19.
+Country = Sweden
+Total number of infected = 49684. Number of infected last day = 1396.
+Country = Switzerland
+Total number of infected = 31063. Number of infected last day = 19.
+Country = Taiwan*
+Total number of infected = 443. Number of infected last day = 0.
+Country = Tanzania
+Total number of infected = 509. Number of infected last day = 0.
+Country = Thailand
+Total number of infected = 3129. Number of infected last day = 4.
+Country = Togo
+Total number of infected = 525. Number of infected last day = 1.
+Country = Trinidad and Tobago
+Total number of infected = 117. Number of infected last day = 0.
+Country = Tunisia
+Total number of infected = 1093. Number of infected last day = 6.
+Country = Turkey
+Total number of infected = 175218. Number of infected last day = 1195.
+Country = Uganda
+Total number of infected = 686. Number of infected last day = 7.
+Country = Ukraine
+Total number of infected = 30415. Number of infected last day = 709.
+Country = United Arab Emirates
+Total number of infected = 41499. Number of infected last day = 513.
+Country = United Kingdom/Bermuda
+Total number of infected = 141. Number of infected last day = 0.
+Country = United Kingdom/Cayman Islands
+Total number of infected = 187. Number of infected last day = 1.
+Country = United Kingdom/Channel Islands
+Total number of infected = 565. Number of infected last day = 0.
+Country = United Kingdom/Gibraltar
+Total number of infected = 176. Number of infected last day = 0.
+Country = United Kingdom/Isle of Man
+Total number of infected = 336. Number of infected last day = 0.
+Country = United Kingdom/Montserrat
+Total number of infected = 11. Number of infected last day = 0.
+Country = United Kingdom
+Total number of infected = 292950. Number of infected last day = 1541.
+Country = Uruguay
+Total number of infected = 847. Number of infected last day = 0.
+Country = US
+Total number of infected = 2048986. Number of infected last day = 25396.
+Country = Uzbekistan
+Total number of infected = 4869. Number of infected last day = 128.
+Country = Venezuela
+Total number of infected = 2879. Number of infected last day = 65.
+Country = Vietnam
+Total number of infected = 333. Number of infected last day = 1.
+Country = Zambia
+Total number of infected = 1321. Number of infected last day = 121.
+Country = Zimbabwe
+Total number of infected = 343. Number of infected last day = 11.
+Country = Canada/Diamond Princess
+Total number of infected = 0. Number of infected last day = 0.
+Country = Dominica
+Total number of infected = 18. Number of infected last day = 0.
+Country = Grenada
+Total number of infected = 23. Number of infected last day = 0.
+Country = Mozambique
+Total number of infected = 509. Number of infected last day = 20.
+Country = Syria
+Total number of infected = 164. Number of infected last day = 0.
+Country = Timor-Leste
+Total number of infected = 24. Number of infected last day = 0.
+Country = Belize
+Total number of infected = 20. Number of infected last day = 0.
+Country = Laos
+Total number of infected = 19. Number of infected last day = 0.
+Country = Libya
+Total number of infected = 409. Number of infected last day = 16.
+Country = West Bank and Gaza
+Total number of infected = 489. Number of infected last day = 2.
+Country = Guinea-Bissau
+Total number of infected = 1460. Number of infected last day = 71.
+Country = Mali
+Total number of infected = 1752. Number of infected last day = 30.
+Country = Saint Kitts and Nevis
+Total number of infected = 15. Number of infected last day = 0.
+Country = Canada/Northwest Territories
+Total number of infected = 5. Number of infected last day = 0.
+Country = Canada/Yukon
+Total number of infected = 11. Number of infected last day = 0.
+Country = Kosovo
+Total number of infected = 1326. Number of infected last day = 0.
+Country = Burma
+Total number of infected = 261. Number of infected last day = 1.
+Country = United Kingdom/Anguilla
+Total number of infected = 3. Number of infected last day = 0.
+Country = United Kingdom/British Virgin Islands
+Total number of infected = 8. Number of infected last day = 0.
+Country = United Kingdom/Turks and Caicos Islands
+Total number of infected = 12. Number of infected last day = 0.
+Country = MS Zaandam
+Total number of infected = 9. Number of infected last day = 0.
+Country = Botswana
+Total number of infected = 48. Number of infected last day = 0.
+Country = Burundi
+Total number of infected = 85. Number of infected last day = 0.
+Country = Sierra Leone
+Total number of infected = 1103. Number of infected last day = 18.
+Country = Netherlands/Bonaire, Sint Eustatius and Saba
+Total number of infected = 7. Number of infected last day = 0.
+Country = Malawi
+Total number of infected = 481. Number of infected last day = 0.
+Country = United Kingdom/Falkland Islands (Malvinas)
+Total number of infected = 13. Number of infected last day = 0.
+Country = France/Saint Pierre and Miquelon
+Total number of infected = 1. Number of infected last day = 0.
+Country = South Sudan
+Total number of infected = 1670. Number of infected last day = 0.
+Country = Western Sahara
+Total number of infected = 9. Number of infected last day = 0.
+Country = Sao Tome and Principe
+Total number of infected = 639. Number of infected last day = 7.
+Country = Yemen
+Total number of infected = 632. Number of infected last day = 41.
+Country = Comoros
+Total number of infected = 163. Number of infected last day = 1.
+Country = Tajikistan
+Total number of infected = 4902. Number of infected last day = 68.
+Country = Lesotho
+Total number of infected = 4. Number of infected last day = 0.

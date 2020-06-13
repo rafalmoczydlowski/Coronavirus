@@ -1,10 +1,12 @@
 package main.java.app;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.PrintWriter;
 import java.io.Reader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.List;
 
 public class Main {
@@ -12,56 +14,51 @@ public class Main {
     private static final String CSV_NAME = "time_series_covid19_confirmed_global.csv";
 
     public static void main(String [] args) throws Exception {
-        String line = "";
-        String splitBy = ",";
 
         CSVUtils.downloadCSV("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv",
                 CSV_NAME);
 
         Reader reader = Files.newBufferedReader(Paths.get(CSV_NAME));
         List<String[]> csvRecordList = CSVUtils.readCSV(reader);
+        PrintWriter saveData = new PrintWriter(new FileWriter("Baza danych.txt"));
 
-        //żeby nie pojawiały się nagłówki csv
+        // żeby brał tylko nagłówek
         int countRecords = 0;
         for(String[] record : csvRecordList){
+            if (countRecords == 0) {
+                final String OLD_FORMAT = "MM/dd/yy";
+                final String NEW_FORMAT = "dd/MM/yy";
+                int lastindex = record.length-1;
+                String lastDate = record[lastindex];
+                String newDateString;
+                SimpleDateFormat sdf = new SimpleDateFormat(OLD_FORMAT); // dodana funkcja zmieniająca format daty z mm/dd/yy na dd.mm.yy
+                Date date = sdf.parse(lastDate);
+                sdf.applyPattern(NEW_FORMAT);
+                newDateString = sdf.format(date);
+                saveData.println("============== DANE DOTYCZĄCE ZARAŻONYCH KORONAWIRUSEM (STAN NA DZIEŃ " + newDateString.replace("/", ".") + ") ==============");
+                saveData.println("");
+            }
+            //żeby nie pojawiały się nagłówki csv
             if(countRecords>0) {
                 int lastIndex = record.length - 1;
                 int secondToLastIndex = record.length - 2;
-
                 int lastDay = Integer.parseInt(record[lastIndex]);
                 int secondLastDay = Integer.parseInt(record[secondToLastIndex]);
-
-                System.out.print("Country Name = " + record[1]);
-                if (!record[0].isEmpty()) {
-                    System.out.print(" / " + record[0]);
+                if (record[1].contains("Korea")) {
+                    saveData.print("Country = South Korea");
+                } else {
+                    saveData.print("Country = " + record[1]);
                 }
-                System.out.print(" number of infected: " + record[lastIndex] + ", number of infected last day: " + (lastDay - secondLastDay));
-
-                System.out.println("");
+                if (!record[0].isEmpty()) {
+                    saveData.print("/" + record[0]);
+                }
+                saveData.println("");
+                saveData.print("Total number of infected = " + record[lastIndex] + ". Number of infected last day = " + (lastDay - secondLastDay) + '.');
+                saveData.println("");
             }
             countRecords++;
         }
-
-//        BufferedReader br = new BufferedReader(new FileReader(CSV_NAME));
-//            while ((line = br.readLine()) != null) {
-//                String[] lines = line.split(splitBy);
-//                int lastIndex = lines.length - 1;
-//                int secondToLastIndex = lines.length - 2;
-//                try {
-//                    int lastDay = Integer.parseInt(lines[lastIndex]);
-//                    int secondLastDay = Integer.parseInt(lines[secondToLastIndex]);
-//                    if (lines[1].contains("Korea")) {
-//                        System.out.println("Country Name = " + (lines[1].replace("\"", "")) + " South, Number of infected: " + lines[lastIndex] + ", Number of infected last day: " + (lastDay - secondLastDay));
-//                    }
-//                    else if (lines[1].contains("Sint")) {
-//                        System.out.println("Country Name = " + (lines[0].replace("\"", "").concat(lines[1].replace("\"", "")) + ", Number of infected: " + lines[lastIndex] + ", Number of infected last day: " + (lastDay - secondLastDay)));
-//                    }
-//                    else {
-//                        System.out.println("Country Name = " + (lines[1].replace("*", "")) + ", Number of infected: " + lines[lastIndex] + ", Number of infected last day: " + (lastDay - secondLastDay));
-//                    }
-//                } catch (NumberFormatException e){
-//                    e.getMessage();
-//                }
-//            }
-        }
+        saveData.flush();
+        saveData.close();
     }
+}
