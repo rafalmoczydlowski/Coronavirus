@@ -5,8 +5,6 @@ import java.io.PrintWriter;
 import java.io.Reader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 import java.util.List;
 
 public class Main {
@@ -26,16 +24,10 @@ public class Main {
         int countRecords = 0;
         for(String[] record : csvRecordList){
             if (countRecords == 0) {
-                final String OLD_FORMAT = "MM/dd/yy";
-                final String NEW_FORMAT = "dd/MM/yy";
                 int lastindex = record.length-1;
                 String lastDate = record[lastindex];
-                String newDateString;
-                SimpleDateFormat sdf = new SimpleDateFormat(OLD_FORMAT); // dodana funkcja zmieniająca format daty z mm/dd/yy na dd.mm.yy
-                Date date = sdf.parse(lastDate);
-                sdf.applyPattern(NEW_FORMAT);
-                newDateString = sdf.format(date);
-                saveData.println("============== DANE DOTYCZĄCE ZARAŻONYCH KORONAWIRUSEM (STAN NA DZIEŃ " + newDateString.replace("/", ".") + ") ==============");
+                String lastDay = LastDataFormat.newDate(lastDate);
+                saveData.println("============== DANE DOTYCZĄCE ZARAŻONYCH KORONAWIRUSEM (STAN NA DZIEŃ " + lastDay + ") ==============");
                 saveData.println("");
             }
             //żeby nie pojawiały się nagłówki csv
