@@ -20,9 +20,9 @@ public class Main {
         List<String[]> csvRecordList = CSVUtils.readCSV(reader);
         PrintWriter saveData = new PrintWriter(new FileWriter("Baza danych.txt"));
 
-        // żeby brał tylko nagłówek
         int countRecords = 0;
         for(String[] record : csvRecordList){
+            // żeby brał tylko nagłówek
             if (countRecords == 0) {
                 int lastindex = record.length-1;
                 String lastDate = record[lastindex];
