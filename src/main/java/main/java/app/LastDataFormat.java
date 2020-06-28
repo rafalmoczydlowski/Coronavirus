@@ -6,6 +6,9 @@ import java.util.Date;
 
 public class LastDataFormat {
 
+    private LastDataFormat() {
+
+    }
     private static final String OLD_FORMAT = "MM/dd/yy";
     private static final String NEW_FORMAT = "dd.MM.20yy";
 
